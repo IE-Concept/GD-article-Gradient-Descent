@@ -1,7 +1,6 @@
 Repo being used as a blog support. 
 
-Original link https://www.ie-concept.fr/?p=5640&preview=true
-
+Original link https://www.ie-concept.fr/la-descente-du-gradient/
 
 
 # Setup
